@@ -1,0 +1,51 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card-grey.css");
+@import url("components/fa-facebook.css");
+
+ 
+ body {
+ 	font-size: 24px;
+ 	font-family: times new roman;
+ 	margin: 0px;
+ }
+
+ h1, h2, h3 {
+ 	font-family: times new roman; 
+ 	font-weight: bold; 
+ 	
+ }
+
+ a {
+ 	font-family: times new roman;
+ 	text-decoration: none;
+ }
+
+h4 {
+
+}
+
+
+.card-grey {
+	background-color: white;
+	padding: 60px;
+	box-shadow: 0px 10px 30px;
+	border-radius: 4px;
+	margin: 50px;
+	text-align: center;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  width: 100px;
+  font-size: 50px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+
+}
